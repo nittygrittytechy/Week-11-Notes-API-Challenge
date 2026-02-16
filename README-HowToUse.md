@@ -1,4 +1,4 @@
-# Render Files - Deployment Code
+# Note Taker API - Deployment Code
 
 This folder contains the deployed version of the Note Taker application hosted on Render.
 
@@ -34,4 +34,4 @@ If redeploying, use the following settings:
 
 - **Build Command:** `npm install`
 - **Start Command:** `node server.js`
-- **Root Directory:** `Week 11 Notes API Challenge/Render Files`
+- **Root Directory:** `Week 11 Notes API Challenge/Note Taker API`

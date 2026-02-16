@@ -25,7 +25,7 @@ A full-stack note-taking application built with Express.js that allows users to 
    ```
 2. Navigate to the project directory:
 ```bash
-   cd Week-11-Notes-API-Challenge/"Render Files"
+   cd Week-11-Notes-API-Challenge/"Note Taker API"
 ```
 3. Install dependencies:
 ```bash
